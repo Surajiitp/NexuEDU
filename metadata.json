@@ -1,0 +1,6 @@
+{
+  "name": "NexusEDU",
+  "description": "Transform educational videos and lecture links into comprehensive study notes, interactive summaries, and practice materials with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
